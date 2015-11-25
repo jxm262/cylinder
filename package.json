@@ -1,0 +1,15 @@
+{
+  "name": "cylinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -p 3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Maat <jxm262@gmail.com> (http://jmaat.me/)",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
+}
